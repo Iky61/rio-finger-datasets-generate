@@ -1,5 +1,5 @@
 @echo off
-cd /d "D:\Dashboard HRD\Dashboard HRD"
+cd /d "D:\Dashboard HRD\rio-finger-datasets-generate"
 
 call venv\Scripts\activate
 python -m pip install --upgrade pip
